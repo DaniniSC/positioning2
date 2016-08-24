@@ -1,0 +1,24 @@
+body, div {
+	margin: 0;
+	padding: 0;
+}
+.cajaNegra {
+	background-color: black;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+}
+.cajaAzul {
+	background-color: blue;
+	width: 200px;
+	height: 200px;
+	position: static;
+}
+.cajaVerde {
+	background-color: darkgreen;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
